@@ -1,0 +1,10 @@
+<resources>
+    <string name="txtNombre"></string>
+    <string name="btnSiguiente">siguiente</string>
+    <string name="btnAtras">atras</string>
+    <string name="txtR">intent</string>
+    <string name="tv">ingrese su nombre</string>
+    <string name="tv2">nombre</string>
+
+
+</resources>
